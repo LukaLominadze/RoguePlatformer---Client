@@ -1,4 +1,4 @@
-For the client visit this githup repository: ```https://github.com/LukaLominadze/RoguePlatformer---Server```
+For the server visit this githup repository: ```https://github.com/LukaLominadze/RoguePlatformer---Server```
 
 ![Server - Made with Clipchamp](https://github.com/LukaLominadze/RoguePlatformer---Server/assets/142942110/c53cd963-a9e4-4818-ae64-0d74c1821104)
 ![client - Made with Clipchamp](https://github.com/LukaLominadze/RoguePlatformer---Server/assets/142942110/0ef434c5-ec6c-4496-b00b-d1bab1168f2d)
