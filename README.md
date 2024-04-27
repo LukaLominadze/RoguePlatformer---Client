@@ -11,7 +11,7 @@ Unity 2021 and above is recommended for this project.
 
 <ins>**1. Downloading the repository:**</ins>
 
-Open the command prompt in the desired destination and simply clone the repository by running the command line ```https://github.com/LukaLominadze/RoguePlatformer---Client```
+Open the command prompt in the desired destination and simply clone the repository by running the command line ```git clone --recursive https://github.com/LukaLominadze/RoguePlatformer---Client```
 
 <ins>**2. Building the project:**</ins>
 
@@ -25,4 +25,4 @@ For networking I opted to using Riptide, which you can find here: ```https://git
 <ins>**4. Running the client:**</ins>
 
 Simply run the server and the project. The server will start running automatically on port ```14147```.
-In the client and enter the port and username to connect to the server.
+In the client enter the port and username to connect to the server.
