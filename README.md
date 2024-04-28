@@ -25,4 +25,6 @@ For networking I opted to using Riptide, which you can find here: ```https://git
 <ins>**4. Running the client:**</ins>
 
 Simply run the server and the project. The server will start running automatically on port ```14147```.
-In the client enter the port and username to connect to the server.
+In the client enter your local IP address (or public IP adress if you have forwarded the port) and the port, with the username to connect to the server.
+
+Your IP would look something like this -> ```127.0.0.1:14147```
